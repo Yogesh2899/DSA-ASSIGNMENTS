@@ -92,7 +92,7 @@ void exit(){
 
 
 int main(){
-    char value;
+    int value;
     switch (value)
     {
     case 1:void createArr();
@@ -119,5 +119,6 @@ int main(){
     cout << "4.DELETE" << endl;
     cout << "5.LINEAR SEARCH" << endl;
     cout << "6.EXIT" << endl;
+
 
 }
